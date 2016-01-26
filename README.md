@@ -1,2 +1,2 @@
 # lcthw
-Learn C the hard way
+[Learn C the hard way](http://c.learncodethehardway.org/)
